@@ -32,7 +32,7 @@ The notebook covers data preprocessing, model training, and evaluation using Boo
 ## Usage
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/boosting-ensemble-technique.git
+   git clone https://github.com/alinapradhan/boosting-ensemble-technique.git
    cd boosting-ensemble-technique
 
 ----
